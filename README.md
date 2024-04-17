@@ -1,5 +1,3 @@
-# For the first Question
-
 # For isConnected()
 
 I am going through each edge of the graph and seeing if there is atleast
